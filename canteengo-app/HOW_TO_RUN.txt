@@ -1,0 +1,3 @@
+//cd canteengo-app
+npm install expo
+npx expo start
